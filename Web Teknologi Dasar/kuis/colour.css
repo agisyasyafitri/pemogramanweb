@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    color: brown;
+    background-color: blanchedalmond;
+}
+header {
+    background-color: darkorange;
+    color: saddlebrown;
+    padding: 25px 0;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 1);
+}
